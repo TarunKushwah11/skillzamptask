@@ -1,0 +1,46 @@
+.col-4{
+  float: left;
+  text-align: left;
+}
+
+.buttondiv{
+  float: left;
+}
+.buttonbox{
+  float: left;
+  margin: 3px;
+}
+
+#ram{
+  margin: 40px;
+}
+
+#imagegap{
+  justify-content: space-between;
+}
+
+.row{
+  margin-top: 14px;
+}
+
+p{
+  margin: 10px ;
+  height: 20px;
+  overflow: hidden;
+}
+
+#bom{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  position: relative;
+  left: 29px;
+  margin-bottom: 30px;
+}
+
+#bom:hover{
+  background-color: yellow;
+    color: white;
+}
+
